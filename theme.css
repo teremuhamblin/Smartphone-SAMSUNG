@@ -1,0 +1,39 @@
+:root {
+    --bg: #f7f9fc;
+    --text: #1c1c1e;
+    --accent: #0a84ff;
+    --card: #ffffff;
+    --radius: 14px;
+    --shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", "Segoe UI", sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.card {
+    background: var(--card);
+    padding: 20px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+}
+
+code {
+    background: #e5e5ea;
+    padding: 4px 6px;
+    border-radius: 6px;
+}
