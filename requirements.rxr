@@ -1,0 +1,24 @@
+# API
+fastapi
+uvicorn
+
+# CLI
+click
+
+# Data & parsing
+pandas
+requests
+
+# Utils
+python-dotenv
+
+# Tests
+pytest
+
+# Lint & format
+flake8
+black
+
+# Documentation (optionnel)
+mkdocs
+mkdocs-material
