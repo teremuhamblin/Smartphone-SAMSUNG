@@ -40,3 +40,15 @@ EXPOSE 80
 EXPOSE 8000
 
 CMD ["nginx", "-g", "daemon off;"]
+
+# ============================
+# Stage 4 - Samsung-build
+# ============================
+samsung-docs-builder:
+    image: ubuntu:latest
+    container_name: samsung_docs_builder
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: bash tools/pipeline.sh
+
