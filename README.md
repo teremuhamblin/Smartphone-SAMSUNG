@@ -1,15 +1,12 @@
+---
 <p align="center">
-SMARTPHONE SAMSUNG - FRANCE</p>
+📱 SAMSUNG Devices & OS Knowledge suite</p>
 <p align="center">
-📱 Samsung Devices & OS Knowledge Suite</p>
+La référence francophone sur les smartphones Samsung et leurs systèmes d’exploitation</p>
 
 ---
 
-### La référence francophone sur les smartphones Samsung et leurs systèmes d’exploitation
-
----
-
-🌌 Présentation du projet
+### 🌌 Présentation du projet
 
 Samsung Devices & OS Knowledge Suite est un projet complet visant à documenter, analyser et structurer toutes les informations essentielles sur :
 
@@ -22,7 +19,7 @@ Ce projet a pour ambition de devenir une base de connaissance exhaustive, un out
 
 ---
 
-🧱 Objectifs
+### 🧱 Objectifs
 
 - Fournir une documentation claire et complète sur les appareils Samsung  
 - Centraliser les spécifications techniques sous forme de datasets  
@@ -30,44 +27,6 @@ Ce projet a pour ambition de devenir une base de connaissance exhaustive, un out
 - Offrir des analyses techniques sur Android, One UI, Knox et Tizen  
 - Mettre en lumière l’évolution technologique de Samsung  
 - Créer un écosystème modulaire permettant d’étendre le projet facilement  
-
----
-
-📂 Structure du projet
-
-`
-samsung-project/
-│
-├── docs/
-│   ├── overview/
-│   ├── history/
-│   ├── devices/
-│   ├── os/
-│   ├── security/
-│   ├── ecosystem/
-│   └── comparisons/
-│
-├── data/
-│   ├── devices.json
-│   ├── specs/
-│   ├── benchmarks/
-│   └── os_versions.json
-│
-├── src/
-│   ├── api/
-│   ├── cli/
-│   ├── utils/
-│   └── parsers/
-│
-├── assets/
-│   ├── images/
-│   ├── diagrams/
-│   └── branding/
-│
-├── tests/
-│
-└── README.md
-`
 
 ---
 
