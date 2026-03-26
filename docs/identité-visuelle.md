@@ -1,4 +1,4 @@
-🎨. Identité visuelle du projet
+🎨 Identité visuelle du projet
 - Voici une base :
 
 Palette inspirée de Samsung
