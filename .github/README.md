@@ -1,6 +1,7 @@
-📁 Documentation & Standards du Projet Smartphone Samsung
+📁 .github
+- Documentation & Standards du Projet Smartphone Samsung
 
-Bienvenue dans le dossier github du projet Samsung Next-Gen Smartphone.  
+Bienvenue dans le dossier .github du projet Samsung Next-Gen Smartphone.  
 Ce répertoire centralise tous les éléments liés à la gestion du projet sur GitHub (workflows, templates, règles de contribution et automatisations.)
 
 ---
